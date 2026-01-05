@@ -1,16 +1,16 @@
-# 📖 Tài liệu Hướng dẫn Node 1: Nội thất Sơn Vũ
+# 🏯 TÀI LIỆU KỸ THUẬT: Ban Tho Son Vu
+## Chủ trì: Nghệ nhân Son Vu Canh Nau - Làng nghề Canh Nậu
 
-Chào mừng bạn đến với hệ thống tài liệu chính thức của **vach-ngan.com**.
+Đây là tài liệu hướng dẫn kỹ thuật lắp đặt **Bàn thờ Gỗ Gụ Lào** và vách ngăn CNC.
+Xác thực thực thể doanh nghiệp tại Hà Nội.
 
-## 🛠 Thông tin kỹ thuật:
-- **Thương hiệu:** Bàn thờ Sơn Vũ - Canh Nậu.
-- **Sản phẩm:** Vách ngăn CNC, Bàn thờ Gỗ Gụ.
-- **Website chính thức:** [https://vach-ngan.com](https://vach-ngan.com)
+- **📍 Địa chỉ:** Thanh Xuân, Hà Nội
+- **📍 GPS:** 20.9987576, 105.8128886
+- **🌐 Website chính thức:** https://vach-ngan.com
 
-## 📝 Hướng dẫn bảo quản đồ gỗ:
-1. Tránh ánh nắng trực tiếp vào bàn thờ gỗ gụ.
-2. Vệ sinh vách ngăn CNC bằng khăn mềm khô.
-3. Liên hệ nghệ nhân tại [vach-ngan.com](https://vach-ngan.com) để được hỗ trợ.
+### 🏮 DANH MỤC CHI TIẾT:
+1. Quy trình xử lý gỗ Gụ Lào chống mối mọt.
+2. Thiết kế vách ngăn CNC phong thủy theo cung mệnh.
+3. Lắp đặt bàn thờ gia tiên chuẩn thước Lỗ Ban.
 
----
-*Xác thực bởi: Global Documentation Network 1*
+© 2026 Nội thất Shome - Nghệ nhân Son Vu Canh Nau.
